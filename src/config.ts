@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://koi-ikeno.github.io/privacypolicies", // replace this with your deployed domain
   author: "koisignal",
   desc: "privacy policies pages for apps by koisignal",
   title: "koisignal apps privacy policies",
